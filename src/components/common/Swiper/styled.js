@@ -2,7 +2,8 @@ import styled from "styled-components";
 import { Swiper, SwiperSlide } from "swiper/react";
 export const StyledSwiper=styled(Swiper)`
 width:100%;
-height:500px;
+height:800px;
+
 margin:20px 0;
 `
 
@@ -16,7 +17,7 @@ padding: 50px;
 display:flex;
 justify-content:center;
 flex-direction:column;
-max-width:500px;
+/* width:80%; */
 gap:20px;
 `
 

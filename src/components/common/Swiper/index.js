@@ -1,4 +1,4 @@
-import React, { useRef, useState } from "react";
+import React  from "react";
 
 import { StyledSwiper, StyledSwiperSlide, StyledSwiperWrapper, StyledText,StyledA, StyledH4  } from "./styled";
 import "swiper/css";
@@ -14,7 +14,7 @@ const slidesConfig = [
     position: "Senior Product Manager",
     company: "Boost Media",
     email: "romeus99@gmail.com",
-    text:"I had the privilege of supervising Dmytro Yakovenko for two years during his tenure at XYZ Tech Solutions. Dmytro consistently displayed exceptional project management skills and a strong commitment to achieving our company's goals. His attention to detail, problem-solving abilities, and leadership qualities made him an invaluable member of our team."
+    text:"I had the privilege of supervising Dmytro Yakovenko for two years during his tenure at Boost Media. Dmytro consistently displayed exceptional project management skills and a strong commitment to achieving our company's goals. His attention to detail, problem-solving abilities, and leadership qualities made him an invaluable member of our team."
   },
   {
     id:2,
@@ -62,6 +62,7 @@ const Swiper=()=>{
         {slidesConfig.map(item=>(
          <StyledSwiperSlide>
           <StyledSwiperWrapper>
+          <StyledH4>{item.name}</StyledH4> 
           <StyledH4>{item.title}</StyledH4> 
          <StyledText>{item.position}</StyledText>
          <StyledText>{item.company}</StyledText>

@@ -12,7 +12,7 @@ import {
 const links = [
   { title: "Home", link: "/", id: 1 },
   { title: "References", link: "/references", id: 2 },
-  { title: "Skills", link: "/skills", id: 4 },
+  { title: "Certificates", link: "/certificates", id: 4 },
   { title: "Projects", link: "/projects", id: 5 },
   { title: "Contacts", link: "/contacts", id: 6 },
 ];
