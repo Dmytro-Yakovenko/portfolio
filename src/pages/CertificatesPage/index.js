@@ -17,6 +17,7 @@ const Skills = () => {
             <CertificateImage src="https://res.cloudinary.com/dr1ekjmf4/image/upload/v1694749241/download_2_zg7sba.png" alt="Hack Ranker Problem Solving Basic "/>
             <CertificateImage src="https://res.cloudinary.com/dr1ekjmf4/image/upload/v1694749392/download_3_lbazys.png" alt="Hack Ranker React Basic"/>
             <CertificateImage src="https://res.cloudinary.com/dr1ekjmf4/image/upload/v1696516365/Certification_s1gyb4.png" alt="CODINGAME CERTIFICATE problem solving"/>
+            <CertificateImage src="https://res.cloudinary.com/dr1ekjmf4/image/upload/v1697254922/problem_solving_intermediate_certificate_gbuzld.png" alt="CODINGAME CERTIFICATE problem solving"/>
 
 
            </CertificateContainer>
