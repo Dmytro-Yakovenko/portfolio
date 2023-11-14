@@ -24,7 +24,7 @@ This Pinterest-Clone project allows logged-in users to create, update and delete
 
       <StyledImg src='https://res.cloudinary.com/dr1ekjmf4/image/upload/v1692888231/Screen_Shot_2023-08-24_at_7.42.37_AM_f1dw7j.png'/>
       <StyledDiv>
-      <StyledA target = "_blanc" href="https://splitsmart.onrender.com/">Live Site</StyledA>
+      <StyledA target = "_blanc" href="https://splitwise-aiek.onrender.com/">Live Site</StyledA>
       <StyledA target = "_blanc" href="https://github.com/Dmytro-Yakovenko/SplitSmart">Git Hub Repo</StyledA>
       </StyledDiv>
      
