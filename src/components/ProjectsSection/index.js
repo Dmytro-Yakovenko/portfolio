@@ -5,13 +5,13 @@ import {Styledh2} from '../common/container/style'
 const ProjectsSection = () => {
   const config = [
     {
-      renderLink:"https://speakeasy-l360.onrender.com/",
+      renderLink:"https://foodterest-bgx4.onrender.com/",
       cloudanaryLink:'https://res.cloudinary.com/dr1ekjmf4/image/upload/v1692852394/Screen_Shot_2023-08-23_at_9.43.56_PM_qye5lt.png',
       gitLink:"https://github.com/Dmytro-Yakovenko/solo-clone-flask",
       description:"Pinterest clone This Pinterest-Clone project allows logged-in users to create, update and delete pins and boards. Users can create boards of a specific category and browse through a selection of pins in which they can save to an associated board."
     },
     {
-      renderLink:"https://speakeasy-baa7.onrender.com/",
+      renderLink:"https://speakeasy-baa7.onrender.com/signup",
       cloudanaryLink:'https://res.cloudinary.com/dr1ekjmf4/image/upload/v1724946495/Screen_Shot_2024-08-29_at_8.40.14_AM_jmpkzz.png',
       gitLink:"https://github.com/jchau-623/Speakeasy",
       description:"Speak Easy The primary purpose of the app is to bridge cultural and language gaps by providing accurate and contextual translations of idioms and slang across various languages."
